@@ -19,7 +19,7 @@ Define these at the `:root` level. **Do not use font sizes below 12px anywhere.*
 * **Structure:** `--bg: #ffffff;` `--bg2: #f8fafc;` `--bg3: #f1f5f9;` `--border: #e2e8f0;` `--border2: #cbd5e1;`
 * **Typography:**
 * `--sans`: 'Inter' or 'DM Sans'. **Body text must be exactly `16px` with line-height `1.75`.**
-* `--head`: 'Syne' or 'Fraunces'. Headings are bold, tracking `-0.01em` to `-0.02em`, uppercase.
+* `--head`: 'Fraunces' 'Syne'. Headings are bold, tracking `-0.01em` to `-0.02em`, uppercase.
 * `--mono`: 'JetBrains Mono' or 'Space Mono'. Used for code, tags, and UI labels. **Size must be strictly between `12px` and `13px**` (do not use 9px or 10px), tracking `0.1em`, uppercase.
 
 
