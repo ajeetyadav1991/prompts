@@ -28,17 +28,8 @@ Interactive learning (sliders, visualizers)
 2026 state-of-art (AdamW, LoRA, etc.).
 INCLUDE RUNNABLE INTERACTIVE ELEMENTS, SVG ELEMENTS>
 
- 
-  
-
-
-
-
-
-```
-
 ===
 
-
-
-read the entire chat history in this chat session at least twice. Also read the HTML code /CSS that u have created if any. Now summarise in less than 200 words, and tell me what is the next step. Do not jump into coding or anything till the time i say. REASON WITH YOURSELF for EVERY POINT, and ALWAYS build a mental model. 
+read the entire chat history in this chat session at least twice. Also read the HTML code /CSS that u have created if any.
+Now summarise in less than 200 words, and tell me what is the next step. Do not jump into coding or anything till the time i say. 
+REASON WITH YOURSELF for EVERY POINT, and ALWAYS build a mental model. 
