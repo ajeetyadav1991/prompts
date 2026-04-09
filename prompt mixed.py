@@ -10,10 +10,12 @@ Do not jump into coding or anything till the time i say. REASON WITH YOURSELF fo
 start      without missing any micro details.
 
 you must refer to the previous files you have created..Consistency across each html pages must be there with clear visuals for audience.  
- Reason with yourself first before creating the Parts. keep pushing yourself like the ULTRA. You are the TRUE GOD Mode. Don't dare to miss anything or hallucinate. At every command, you must Reason yourself first. u must reason with yourself about building mental model first.
+ Reason with yourself first before creating the Parts. keep pushing yourself like the ULTRA. You are the TRUE GOD Mode. Don't dare to miss anything or hallucinate. 
+ At every command, you must Reason yourself first. u must reason with yourself about building mental model first.
 
 Build with maximum reasoning, no hallucinations, 2026-aware, production-focused with must have real world problem solving examples. 
-Every concept must also include a non tech explanation with must be relevant to the current section- not some random explanation. Must include codes for better clarity with proper comments inside the code
+Every concept must also include a non tech explanation with must be relevant to the current section- not some random explanation. 
+Must include codes for better clarity with proper comments inside the code
 
 Important :
 Include the latest developments going in this domain in 2026..
